@@ -1,0 +1,24 @@
+{
+    "data": {
+        "me": {
+            "id": "1640072904411468706",
+            "email": null,
+            "emailVerified": false,
+            "username": "user-1640072904411468706",
+            "displayName": "Meaty Ball",
+            "createdAt": "2023-07-24T04:34:28.486Z",
+            "updatedAt": "2023-07-24T04:34:28.486Z",
+            "avatarMedia": null,
+            "coverMedia": null,
+            "followedByMe": false,
+            "followingMe": false,
+            "followerCount": 0,
+            "followingCount": 0,
+            "inspiredCount": 0,
+            "membership": true,
+            "isAdmin": true,
+            "isGuest": false,
+            "passwordEnabled": false
+        }
+    }
+}
